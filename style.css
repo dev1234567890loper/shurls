@@ -1,0 +1,192 @@
+         @font-face {
+         	font-family: edo;
+         	src: url(edo.ttf);
+         }
+         @font-face {
+         	font-family: csr;
+         	src: url(Codystar.ttf);
+         }
+         @font-face {
+         	font-family: cbyg;
+         	src: url(CoveredByYourGrace.ttf);
+         }
+         @font-face {
+         	font-family: ggs;
+         	src: url(Hacked-KerX.ttf);
+         }
+         @font-face {
+         	font-family: awe;
+         	src: url(Armwarmer-zEL1.ttf);
+         }
+         #my_section_one{
+         	height: 100%;
+         	width: 100%;
+         	position: absolute;
+         	background: url(mysec1.jpg);
+         	background-position: 0% 0%;
+         	background-size: cover;
+         	left: 0%;
+         	top: 0%;
+         }
+         #my_section_two{
+           height: 100%;
+           width: 100%;
+           position: absolute;
+           background: url(mysec1.jpg);
+           background-position: 0% 0%;
+           background-size: cover;
+           left: 0%;
+           top: 0%;
+           overflow: scroll;
+         }
+         #my_section_one_maintxt {
+         	background: transparent;
+         	color: white;
+         	height: 150px;
+         	width: 100%;
+         	position: absolute;
+         	left: 0%;
+         	top: calc(50% - 75px);
+         	font-size: 6em;
+         	text-align: center;
+         	line-height: 150px;
+         	text-transform: uppercase;
+         	font-family: 'edo';
+         }
+         #my_section_one_subtxt {
+         	height: 50px;
+         	width: 50%;
+         	position: absolute;
+         	background: transparent;
+         	left: 25%;
+         	top: calc(50% + 50px);
+         	font-size: 35px;
+         	text-align: center;
+         	color: white;
+         	line-height: 50px;
+         	text-transform: uppercase;
+         	font-family: 'ggs';
+         }
+         #my_section_one_mainico {
+         	height: 70px;
+         	width: 70px;
+         	position: absolute;
+         	background: url(creativity.png);
+         	background-size: cover;
+         	background-position: 0% 0%;
+         	left: calc(50% - 35px);
+         	top: calc(50% - 120px);
+         	font-size: 70px;
+         	text-align: center;
+         	color: white;
+         	line-height: 70px;
+         	text-transform: uppercase;
+         	font-family: 'cbyg';
+         }
+         #my_section_one_red {
+         	height: 50px;
+         	width: 200px;
+         	background: white;
+         	position: absolute;
+         	left: calc(50% - 100px);
+         	top: calc(50% + 130px);
+         	border-radius: 50px;
+         	text-align: center;
+         	line-height: 50px;
+         	font-size: 1.1em;
+         	color: black;
+         	font-family: 'awe';
+         }
+         #my_section_two_in{
+           height: 90%;
+           width: 95%;
+           position: absolute;
+           left: 2.5%;
+           top: 5%;
+           background: #ECF0F1;
+           border-radius: 0px;
+           border: none;
+           z-index: 10;
+           overflow-x: hidden;
+           overflow-y: scroll;
+         }
+         #my_section_two_cov{
+           height: 100%;
+           width: 100%;
+           background: white;
+           position: absolute;
+           left: 0%;
+           top: 0%;
+           opacity: 0.4;
+           z-index: 5;
+         }
+         .my_down_con{
+           height: 60px;
+           width: calc(100% - 5px);
+           background: #F4F6F7;
+           position: absolute;
+           left: 5px;
+           border-radius: 0px;
+         }
+         .my_down_name{
+           height: 100%;
+           width: 70%;
+           background: transparent;
+           position: absolute;
+           left: 3%;
+           top: 0%;
+           line-height: 60px;
+           font-family: awe;
+           font-size: 1.3em;
+         }
+         .my_down_btn{
+           height: 90%;
+           width: 20%;
+           background: #0084FF;
+           position: absolute;
+           right: 3.5%;
+           top: 5%;
+           line-height: 54px;
+           font-family: ggs;
+           font-size: 1.2em;
+           text-align: center;
+           color: white;
+           text-decoration: none;
+           border-radius: 50px;
+         }
+         #my_down_1{
+           top: 5px;
+         }
+         #my_down_2{
+           top: 70px;
+         }
+         #my_down_3{
+           top: 135px;
+         }
+         #my_down_4{
+           top: 200px;
+         }
+         #my_down_5{
+           top: 265px;
+         }
+         #my_down_6{
+           top: 330px;
+         }
+         #my_down_7{
+           top: 395px;
+         }
+         #my_down_8{
+           top: 460px;
+         }
+          #my_down_9{
+           top: 525px;
+         }
+         #my_down_10{
+           top: 590px;
+         }
+         #my_down_11{
+           top: 655px;
+         }
+         #my_down_12{
+           top: 720px;
+         }
